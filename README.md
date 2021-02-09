@@ -7,3 +7,4 @@ The twist here is, that every day is done with a different programming language 
 1. [Rust](https://www.rust-lang.org/)
 2. [F#](https://fsharp.org/)
 3. [Python](https://www.python.org/)
+4. [Haskell](https://www.haskell.org)

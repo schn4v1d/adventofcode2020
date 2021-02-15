@@ -9,3 +9,4 @@ The twist here is, that every day is done with a different programming language 
 3. [Python](https://www.python.org/)
 4. [Haskell](https://www.haskell.org/)
 5. [Kotlin](https://www.kotlinlang.org/)
+6. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
